@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Configuration and other support questions
+    url: https://github.com/NhoLuong/NhoLuong#support-and-developers-channel
+    about: Official Slack chat channel and Facebook group about NhoLuong
+  - name: Hardware Issues
+    url: https://github.com/NhoLuong/NhoLuong#hardware-issues
+    about: What to do in the case of hardware issues
